@@ -50,6 +50,6 @@ You can find the list of contributors in the [CONTRIBUTORS](CONTRIBUTORS.md) fil
 
 See the [LICENSE](LICENSE.txt) file.
 
-## CITING
+## Citing
 
 See the [CITATION](CITATION.cff) file.
