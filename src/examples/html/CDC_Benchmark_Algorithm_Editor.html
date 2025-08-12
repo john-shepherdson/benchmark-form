@@ -978,7 +978,6 @@
             submitBtn.disabled = true;
 
             setTimeout(() => {
-                const jsonData = exportToJSON();
                 const csvData = exportToGoogleSheetFormat();
                 const timestamp = new Date().toISOString().split('T')[0];
                 
